@@ -1,7 +1,8 @@
 # flip-deal
 
 To run Promotion Set A: 
-java -jar target/flipdeal-1.0.0.jar promotionSetA 
+java -jar target/flipdeal-1.0.0.jar promotionSetA
+
 To run Promotion Set B: 
 java -jar target/flipdeal-1.0.0.jar promotionSetB 
 
